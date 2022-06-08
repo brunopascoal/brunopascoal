@@ -13,13 +13,22 @@
   <img align="center" alt="Bruno-Numpy" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   </div>
 
-🔭 I’m currently working on Moore Prisma - Ribeirão Preto.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+- 🔭 I’m currently working on Moore Prisma - Ribeirão Preto;
+- 🌱 I’m currently learning about data science;
+- 👯 I’m looking to collaborate on data science projects;
+- 🤔 I’m looking for help with first opportunity in the field of data science;
+- 💬 Ask me about python, numpy, pandas;
+- 📫 How to reach me: 
+  
+
+  
+ <div> 
+ 
+  <a href="https://www.instagram.com/brunubrn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brnnnst.bs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-pascoal-dos-santos-72b890185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
 ![Snake animation](https://github.com/brunopascoal/brunopascoal/blob/output/github-contribution-grid-snake.svg)
+   
+  </div>
