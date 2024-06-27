@@ -14,13 +14,6 @@
   </div>
 
 
-- 🔭 I’m currently working on Moore Prisma - Ribeirão Preto;
-- 🌱 I’m currently learning about data science;
-- 👯 I’m looking to collaborate on data science projects;
-- 🤔 I’m looking for help with first opportunity in the field of data science;
-- 💬 Ask me about python, numpy, pandas;
-- 📫 How to reach me: 
-  
 
   
  <div> 
